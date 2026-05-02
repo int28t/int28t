@@ -1,6 +1,12 @@
 <!-- ![](https://github-readme-stats.shion.dev/api?username=int28t&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false)<br/> -->
 
+<div align="center">
+
 [![Codeforces Stats](https://codeforces-stats-vlx.vercel.app/api/graph?username=int28t&v2&theme=transparent)](https://codeforces.com/profile/int28t)
+
+</div>
+
+<div align="center">
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -16,7 +22,9 @@
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 
-<p align="left">
+</div>
+
+<p align="center">
   <a href="./CV.pdf">
     <img src="https://img.shields.io/badge/Download_CV-PDF-FF6B6B?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
   </a>
