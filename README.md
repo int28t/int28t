@@ -1,10 +1,16 @@
+<!-- <p align="center">
+  <a href="./CV.pdf">
+    <img src="https://img.shields.io/badge/Download_CV-PDF-FF6B6B?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+  </a>
+</p> -->
+
 <!-- ![](https://github-readme-stats.shion.dev/api?username=int28t&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false)<br/> -->
 
-<div align="center">
+<!-- <div align="center">
 
 [![Codeforces Stats](https://codeforces-stats-vlx.vercel.app/api/graph?username=int28t&v2&theme=transparent)](https://codeforces.com/profile/int28t)
 
-</div>
+</div> -->
 
 <div align="center">
 
@@ -25,7 +31,14 @@
 </div>
 
 <p align="center">
+  <img src="./assets/satellite.png" />
+</p>
+
+<p align="center">
   <a href="./CV.pdf">
-    <img src="https://img.shields.io/badge/Download_CV-PDF-FF6B6B?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+    <img 
+      src="https://img.shields.io/badge/Download_CV-PDF-FF6B6B?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"
+      height="40"
+    />
   </a>
 </p>
