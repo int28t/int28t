@@ -31,14 +31,13 @@
 </div>
 
 <p align="center">
-  <img src="./assets/satellite.png" />
+  <img src="./assets/newhorizons.png" style="width: 50%; height: auto;" />
 </p>
 
 <p align="center">
   <a href="./CV.pdf">
     <img 
       src="https://img.shields.io/badge/Download_CV-PDF-FF6B6B?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"
-      height="40"
     />
   </a>
 </p>
